@@ -376,8 +376,10 @@ function App() {
             </a>
 
             <a
-  href="/Elar-De-Los-Santos-Resume.pdf"
-  download="Elar-De-Los-Santos-Resume.pdf"
+  href="/ELAR.pdf"
+  download="ELAR.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
   className="secondary-button"
 >
   Download Resume
