@@ -376,8 +376,8 @@ function App() {
             </a>
 
             <a
-  href="/ELAR.pdf"
-  download="ELAR.pdf"
+  href="/Elar_De_Los_Santos_Resume.pdf"
+  download="Elar_De_Los_Santos_Resume.pdf"
   target="_blank"
   rel="noopener noreferrer"
   className="secondary-button"
