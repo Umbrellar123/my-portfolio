@@ -352,6 +352,37 @@ function App() {
               
               </div>
             </div>
+            <div className="project-card">
+  <div className="project-image">
+    <span>TASKFLOW</span>
+  </div>
+
+  <div className="project-content">
+    <p className="project-type">WEB APPLICATION</p>
+
+    <h3>TaskFlow</h3>
+
+    <p>
+      A freelancer task management dashboard for organizing tasks,
+      tracking deadlines, monitoring progress, and managing earnings.
+    </p>
+
+    <div className="project-tags">
+      <span>React</span>
+      <span>Vite</span>
+      <span>JavaScript</span>
+      <span>CSS</span>
+    </div>
+    <a
+  href="https://eflow-khaki.vercel.app/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="project-link"
+>
+  View Project
+</a>
+  </div>
+</div>
           </div>
         </section>
 
